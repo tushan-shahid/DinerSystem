@@ -1,2 +1,2 @@
 # DinerSystem
-Diner System. Includes models: Chef, Order, Server 
+Diner System. Includes models: Chef, Order, Server. Written in Java.
